@@ -11,7 +11,7 @@ import {
 const Navbar = () => {
   return (
     <>
-      <Flex as="nav" p="10px" bg="gray.100" alignItems="center">
+      <Flex as="nav" p="15px" bg="gray.100" alignItems="center">
         <Heading as="h3">Chakra Tasks</Heading>
         <Spacer />
 
